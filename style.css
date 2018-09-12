@@ -5,4 +5,16 @@
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row-top {
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #0021A5;
+}
+
+.form-header {
+  text-align: center;
 }
